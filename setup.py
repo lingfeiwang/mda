@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 
-
 pkgname="mda"
 pkgnamefull="Maximal Discriminating Axes"
 version=[0,1,0]
