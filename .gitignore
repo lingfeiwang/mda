@@ -1,3 +1,5 @@
 *.egg-info
 setup.cfg
 docs/build
+dist
+Makefile
