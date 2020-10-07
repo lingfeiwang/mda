@@ -1,9 +1,9 @@
 =========
 MDA
 =========
-
 .. image:: https://zenodo.org/badge/301879307.svg
    :target: https://zenodo.org/badge/latestdoi/301879307
+
 
 MDA (Maximal Discriminating Axes) is a dimensional reduction method to contrast different groups of samples. MDA assumes a normally distributed noise and uses classification training error in Linear Discriminant Analysis (LDA) to estimate the similarity between groups of samples. MDA has been used to compare cell groups in single-cell RNA sequencing.
 
