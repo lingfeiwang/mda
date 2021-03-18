@@ -27,4 +27,4 @@ Please raise an issue on `github <https://github.com/lingfeiwang/mda/issues/new>
 
 References
 ==========================
-* TBA
+* Kwontae You, Lingfei Wang, Chih-Hung Chou, et al. `QRICH1 dictates the outcome of ER stress through transcriptional control of proteostasis <https://science.sciencemag.org/content/371/6524/eabb6896.abstract>`_, Science 2021.
