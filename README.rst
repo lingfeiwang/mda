@@ -15,7 +15,7 @@ MDA can be installed with pip: ``python -m pip install git+https://github.com/li
 
 Documentation
 =============
-Documentations are available as `html <https://lingfeiwang.github.io/mda/index.html>`_ and `pdf <https://github.com/lingfeiwang/mda/raw/master/docs/build/latex/mda.pdf>`_.
+Documentations are available as `html <https://lingfeiwang.github.io/software/mda/index.html>`_ and `pdf <https://github.com/lingfeiwang/software/mda/raw/master/docs/build/latex/mda.pdf>`_.
 
 Examples
 ==========================
